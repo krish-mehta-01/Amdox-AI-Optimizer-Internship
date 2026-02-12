@@ -1,11 +1,11 @@
-# Amdox AI-Powered Task Optimizer 🚀
+# Amdox AI-Powered Task Optimizer 
 
 ## Project Overview
 During my internship at **Amdox**, I developed the AI-Powered Task Optimizer—a multi-modal Data Science solution designed to bridge the gap between employee mental well-being and operational productivity. 
 
 In a modern workplace, "one size fits all" task management is outdated. This system uses Computer Vision and NLP to sense an employee's current emotional state and suggests the right kind of work for that moment, ensuring high efficiency without the risk of burnout.
 
-## 🛠 Features (The 6-Point Implementation)
+## FEATURES
 
 ### 1. Real-Time Multi-Modal Detection
 Unlike single-source models, this system analyzes **facial expressions** via OpenCV/DeepFace and **text sentiment** via HuggingFace Transformers. This ensures a comprehensive understanding of mood.
