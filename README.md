@@ -18,10 +18,10 @@ The "Task Engine" maps 7 core emotions to specific work types.
 The system logs anonymized mood data into a CSV-based tracking system, allowing HR to see long-term trends rather than reacting to isolated bad days.
 
 ### 4. Automated Stress Alerts
-I implemented a "Continuous Stress Threshold" logic. If negative emotions persist for a specific duration, the system flags a potential burnout risk, alerting HR (support@amdox.in) for proactive intervention.
+I implemented a "Continuous Stress Threshold" logic. If negative emotions persist for a specific duration, the system flags a potential burnout risk, alerting HR for proactive intervention.
 
 ### 5. Team Morale Analytics
 Aggregated data provides managers with a "Team Pulse" dashboard, showing the overall health of the department without compromising individual privacy.
 
 ### 6. Privacy-First Architecture
-Security was a top priority. Raw video and audio never leave the local machine. The system only stores anonymized emotion labels (e.g., `2026-02-12, neutral`), ensuring full compliance with data privacy standards.
+Security was a top priority. Raw video and audio never leave the local machine. The system only stores anonymized emotion labels , ensuring full compliance with data privacy standards.
