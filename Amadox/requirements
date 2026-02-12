@@ -1,0 +1,4 @@
+deepface==0.0.92
+opencv-python==4.8.0.74
+tf-keras==2.15.0
+pandas
